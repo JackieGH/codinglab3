@@ -52,6 +52,9 @@ form input[type="text"] {
     padding-bottom: 10px;             
     border: 2px solid rgb(255, 127, 217); 
 }
+form label{
+    padding-left: 5%;
+}
 
 button{
     background-color: coral;
