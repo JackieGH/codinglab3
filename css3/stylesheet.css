@@ -41,10 +41,16 @@ form{
     border-color: aquamarine;
     border-width: 20px;
     border-style: dotted;
-    margin-left: 2.5%;
-    padding-left: 2.5%;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+form input[type="text"] {
+    padding: 10px;         /* Padding inside the input */
+    margin-left: 2.5%;       /* Margin to the left of the input */
+    padding-left: 2.5%;
+    border: 2px solid rgb(255, 127, 217); /* Optional: style the border */
+    width: 80%;            /* Adjust width to fit well inside the form */
 }
 
 button{
