@@ -47,13 +47,8 @@ form{
     padding-bottom: 10px;
 }
 
-form input[type="text"] {
-    padding-top: 10px; 
-    padding-bottom: 10px;             
+form input[type="text"] {            
     border: 2px solid rgb(255, 127, 217); 
-}
-form label{
-    padding-left: 5%;
 }
 
 button{
