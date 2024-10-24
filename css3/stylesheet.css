@@ -22,16 +22,16 @@ body{
 #text1{
     font-weight: bold;
     padding-left: 5%;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 /* Styling Div Class text2*/
 .text2{
     color:blueviolet;
     padding-left: 5%;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     background-color: antiquewhite;
 }
 
@@ -40,6 +40,10 @@ form{
     border-color: aquamarine;
     border-width: 50px;
     border-style: dotted;
+    margin-left: 2.5%;
+    padding-left: 2.5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 button{
