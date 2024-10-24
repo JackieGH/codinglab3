@@ -12,7 +12,7 @@ h1{
 /* Styling body*/
 body{
     font-family: 'Franklin Gothic Medium', sans-serif;
-    font-size:100rem;
+    font-size:2rem;
 }
 
 /* Styling Section text1*/
@@ -28,7 +28,7 @@ body{
 /* Styling form*/
 form{
     border-color: aquamarine;
-    border-width: 50pt;
+    border-width: 50px;
     border-style: dotted;
 }
 
@@ -39,5 +39,5 @@ button{
 
 /* Styling Div Class 3*/
 .text3{
-    font-size: 10rem;
+    font-size: 1rem;
 }
