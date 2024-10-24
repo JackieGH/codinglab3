@@ -15,7 +15,7 @@ h1{
 /* Styling body*/
 body{
     font-family: 'Franklin Gothic Medium', sans-serif;
-    font-size:2rem;
+    font-size:1rem;
 }
 
 /* Styling Section text1*/
@@ -53,7 +53,7 @@ button{
 
 /* Styling Div Class 3*/
 .text3{
-    font-size: 1rem;
+    font-size: 0.5rem;
     padding-left: 5%;
     padding-top: 5px;
     padding-bottom: 5px;
