@@ -43,6 +43,8 @@ form{
     border-style: dotted;
     padding-top: 10px;
     padding-bottom: 10px;
+    margin-left: 2.5%;       
+    padding-left: 2.5%;
 }
 
 form input[type="text"] {
@@ -50,7 +52,6 @@ form input[type="text"] {
     margin-left: 2.5%;       /* Margin to the left of the input */
     padding-left: 2.5%;
     border: 2px solid rgb(255, 127, 217); /* Optional: style the border */
-    width: 80%;            /* Adjust width to fit well inside the form */
 }
 
 button{
